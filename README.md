@@ -1,4 +1,4 @@
-![Screenshot 2021-11-28 at 19-40-39 Untitled design](https://user-images.githubusercontent.com/69063906/143796165-fa1296df-27ef-47c1-9ab5-dfcac88a5784.png)
+![FinalSecretSantaLogo](https://user-images.githubusercontent.com/69063906/143917378-8f7990eb-2ec5-450a-8bc0-9a258ad62148.png)
 
 ![build](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)![build](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)![build](https://img.shields.io/twitch/status/Arangaren?style=social)
